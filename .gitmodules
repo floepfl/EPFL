@@ -7,3 +7,6 @@
 [submodule "ISP"]
 	path = ISP
 	url = git@github.com:floepfl/ISP.git
+[submodule "Stats"]
+	path = Stats
+	url = git@github.com:floepfl/Stats.git
