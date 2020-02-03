@@ -1,0 +1,9 @@
+[submodule "ml-flo"]
+	path = ml-flo
+	url = git@github.com:floepfl/ml-flo.git
+[submodule "ada-flo"]
+	path = ada-flo
+	url = git@github.com:floepfl/ada-flo.git
+[submodule "ISP"]
+	path = ISP
+	url = git@github.com:floepfl/ISP.git
