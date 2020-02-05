@@ -10,3 +10,6 @@
 [submodule "Stats"]
 	path = Stats
 	url = git@github.com:floepfl/Stats.git
+[submodule "OptML_course"]
+	path = OptML_course
+	url = ./OptML_course
