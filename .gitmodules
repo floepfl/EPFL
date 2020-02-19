@@ -13,3 +13,6 @@
 [submodule "OptML_course"]
 	path = OptML_course
 	url = ./OptML_course
+[submodule "proj-epidemic-control"]
+	path = proj-epidemic-control
+	url = ./proj-epidemic-control
